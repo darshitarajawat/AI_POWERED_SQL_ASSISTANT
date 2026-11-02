@@ -158,4 +158,4 @@ Open the application at:
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](https://github.com/darshitarajawat)
+- GitHub: [My GitHub Profile](https://github.com/darshitarajawat)
