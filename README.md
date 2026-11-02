@@ -154,15 +154,6 @@ Open the application at:
 - Keep API keys and credentials secure.
 - Apply database-level access controls.
 
-##  Future Enhancements
-
-- Persistent conversation memory.
-- Advanced SQL query optimization.
-- Interactive data visualization.
-- PostgreSQL and MySQL integration.
-- Human approval for sensitive operations.
-- Query performance monitoring.
-
 ##  Author
 
 **Your Name**
