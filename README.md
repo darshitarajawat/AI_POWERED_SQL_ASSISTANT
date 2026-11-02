@@ -78,7 +78,7 @@ AI-SQL-Assistant/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/darshitarajawat/AI_POWERED_SQL_ASSISTANT.git
 cd your-repository
 ```
 
@@ -111,7 +111,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory:
 
 ```env
-GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY=your_api_key
 ```
 
 Use the environment variable expected by your configured LLM provider. Never upload API keys to GitHub.
